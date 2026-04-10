@@ -46,7 +46,7 @@ export default function Footer() {
         <div>
           <p className="font-black text-2xl md:text-3xl leading-tight">Be Curious,<br />Build Well.</p>
           <p className="text-gray-400 text-sm mt-4">clarencechanjh@gmail.com</p>
-          <p className="text-gray-400 text-sm">+60 12-382 1823</p>
+          <p className="text-gray-400 text-sm">Phone available upon request</p>
         </div>
 
       </div>

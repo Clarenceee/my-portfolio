@@ -9,7 +9,7 @@ export default function Hero() {
             From Data to{' '}<br />Decisions —{' '}<br />AI that Ships.
           </h1>
           <p className="text-gray-500 text-lg xl:text-xl leading-relaxed mb-8 max-w-lg">
-            5 years shipping production AI in fintech — credit scoring, agentic workflows, and LLM systems at scale.
+            Building production AI systems across machine learning, agentic workflows, and LLMs at scale.
           </p>
           <div className="flex items-center gap-4 mb-10">
             <a
