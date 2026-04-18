@@ -58,7 +58,7 @@ export default function Hero() {
           </div>
 
           {/* Photo placeholder */}
-          <div className="relative z-10 w-72 h-96 xl:w-80 xl:h-[28rem] rounded-3xl bg-gradient-to-br from-gray-100 to-gray-200 flex items-end justify-center overflow-hidden shadow-lg">
+          <div className="relative z-10 w-72 h-96 xl:w-80 xl:h-[28rem] rounded-3xl bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center overflow-hidden shadow-lg">
             <img src="/profile-pic-gemini.png" alt="Clarence Chan" className="w-full h-full object-cover" />
           </div>
 
